@@ -6,8 +6,4 @@ PopTracker pack for Spelunker & Archipelago
 
 - AP Autotracking
 - "Glitch" logic for those brave enough to face bats without any flares
-
-# Planned features
-
-- Show hidden item locations
-- Show filler item count
+- Toggle for hidden items
