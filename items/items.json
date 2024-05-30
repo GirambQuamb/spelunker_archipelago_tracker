@@ -38,5 +38,11 @@
         "decrement": 1,
         "initial_quantity": 0,
         "codes": "redkey"
+    },
+    {
+        "name": "Hidden Items",
+        "type": "toggle",
+        "img": "images/settings/hidden_items.png",
+        "codes": "hidden_items"
     }
 ]

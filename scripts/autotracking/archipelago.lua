@@ -64,6 +64,10 @@ function onClear(slot_data)
     if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
         -- add snes interface functions here
     end
+    -- Spelunker options
+    -- if slot_data["hidden_items"] then 
+    --     Tracker:FindObjectForCode("hidden_items").Active = slot_data["hidden_items"]
+    -- end
 end
 
 -- called when an item gets collected

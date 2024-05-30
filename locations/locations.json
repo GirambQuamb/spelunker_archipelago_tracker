@@ -580,6 +580,42 @@
                         "y": 554
                     }
                 ]
+            },
+            {
+                "name": "B1F - Hidden Item before Boulder",
+                "access_rules": [],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B1F - Hidden Item before Boulder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 216,
+                        "y": 129
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Side Shaft Hidden Item",
+                "access_rules": ["$dynamite|1"],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B1F - Side Shaft Hidden Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 420,
+                        "y": 226
+                    }
+                ]
             }
         ]
     },
@@ -1060,6 +1096,42 @@
                         "map": "area_2",
                         "x": 168,
                         "y": 488
+                    }
+                ]
+            },
+            {
+                "name": "B8F - Boulder Pit Hidden Item",
+                "access_rules": ["$dynamite|2"],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B8F - Boulder Pit Hidden Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 96,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Bridge Hidden Item",
+                "access_rules": [],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B10F - Bridge Hidden Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 306,
+                        "y": 193
                     }
                 ]
             }
@@ -1746,6 +1818,42 @@
                         "map": "area_3",
                         "x": 176,
                         "y": 585
+                    }
+                ]
+            },
+            {
+                "name": "B16F - Blue Door Hidden Item",
+                "access_rules": ["$bluekey|4"],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B16F - Blue Door Hidden Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 162,
+                        "y": 162
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Water Spout Upper Ledge Hidden Item",
+                "access_rules": [],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B20F - Water Spout Upper Ledge Hidden Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 224,
+                        "y": 409
                     }
                 ]
             }
@@ -2500,6 +2608,42 @@
                         "map": "area_4",
                         "x": 79,
                         "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Pyramid Hidden Item",
+                "access_rules": [],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B23F - Pyramid Hidden Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 144,
+                        "y": 164
+                    }
+                ]
+            },
+            {
+                "name": "B24F - Pit Trap Hidden Item",
+                "access_rules": [],
+                "visibility_rules": ["$hiddenitems"],
+                "sections": [
+                    {
+                        "name": "B24F - Pit Trap Hidden Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 344,
+                        "y": 210
                     }
                 ]
             }

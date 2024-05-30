@@ -147,5 +147,13 @@ LOCATION_MAPPING = {
     [0x6969F4] = {"@Area 4/B30F - Far Bottom Right/B30F - Far Bottom Right"},
     [0x6969F5] = {"@Area 4/B30F - Undulating Rocks/B30F - Undulating Rocks"},
     [0x6969F6] = {"@Area 4/B30F - Mound Item/B30F - Mound Item"},
-    [0x6969F7] = {"@Area 4/B30F - Far Bottom Left/B30F - Far Bottom Left"}
+    [0x6969F7] = {"@Area 4/B30F - Far Bottom Left/B30F - Far Bottom Left"},
+    [0x6969FD] = {"@Area 1/B1F - Hidden Item before Boulder/B1F - Hidden Item before Boulder"},
+    [0x6969FE] = {"@Area 1/B1F - Side Shaft Hidden Item/B1F - Side Shaft Hidden Item"},
+    [0x6969FF] = {"@Area 2/B8F - Boulder Pit Hidden Item/B8F - Boulder Pit Hidden Item"},
+    [0x696A00] = {"@Area 2/B10F - Bridge Hidden Item/B10F - Bridge Hidden Item"},
+    [0x696A01] = {"@Area 3/B16F - Blue Door Hidden Item/B16F - Blue Door Hidden Item"},
+    [0x696A02] = {"@Area 3/B20F - Water Spout Upper Ledge Hidden Item/B20F - Water Spout Upper Ledge Hidden Item"},
+    [0x696A03] = {"@Area 4/B23F - Pyramid Hidden Item/B23F - Pyramid Hidden Item"},
+    [0x696A04] = {"@Area 4/B24F - Pit Trap Hidden Item/B24F - Pit Trap Hidden Item"}
 }

@@ -1,0 +1,21 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "background": "#000000",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "0,0",
+                "item_size": "200, 100",
+                "h_alignment": "left",
+                "rows": [
+                    [
+                        "hidden_items"
+                    ]
+                ]
+            }
+        ]
+    }
+}
