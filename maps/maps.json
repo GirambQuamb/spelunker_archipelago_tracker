@@ -1,0 +1,26 @@
+[
+    {
+        "name": "area_1",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/area_1.png"
+    },
+    {
+        "name": "area_2",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/area_2.png"
+    },
+    {
+        "name": "area_3",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/area_3.png"
+    },
+    {
+        "name": "area_4",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/area_4.png"
+    }
+]

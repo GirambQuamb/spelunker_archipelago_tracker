@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dynamite",
+        "type": "consumable",
+        "img": "images/items/dynamite.png",
+        "max_quantity": 18,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "codes": "dynamite"
+    },
+    {
+        "name": "Flare",
+        "type": "consumable",
+        "img": "images/items/flare.png",
+        "max_quantity": 9,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "codes": "flare"
+    },
+    {
+        "name": "Blue Key",
+        "type": "consumable",
+        "img": "images/items/blue_key.png",
+        "max_quantity": 9,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "codes": "bluekey"
+    },
+    {
+        "name": "Red Key",
+        "type": "consumable",
+        "img": "images/items/red_key.png",
+        "max_quantity": 6,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "codes": "redkey"
+    }
+]

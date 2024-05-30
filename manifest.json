@@ -1,0 +1,15 @@
+﻿{
+    "name": "Spelunker Archipelago",
+    "game_name": "Spelunker",
+    "package_version": "0.1.0",
+    "package_uid": "spelunker_ap_GirambQuamb",
+    "author": "GirambQuamb",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    }
+}

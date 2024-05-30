@@ -1,0 +1,2508 @@
+[
+    {
+        "name": "Area 1",
+        "children": [
+            {
+                "name": "1F - First Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "1F - First Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 120,
+                        "y": 89
+                    }
+                ]
+
+            },
+            {
+                "name": "1F - Pit Item",
+                "access_rules": [],     
+                "sections": [
+                    {
+                        "name": "1F - Pit Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 232,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "1F - Right Item 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "1F - Right Item 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 328,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "1F - Between Mounds",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "1F - Between Mounds",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 376,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "1F - Far Wall 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "1F - Far Wall 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 408,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "1F - Far Wall 2",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "1F - Far Wall 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 423,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Elevator Item",        
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B1F - Elevator Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 56,
+                        "y": 137
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Undulating Rocks",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B1F - Undulating Rocks",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 175,
+                        "y": 137
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Past Boulder",
+                "access_rules": ["$dynamite|1"],
+                "sections": [
+                    {
+                        "name": "B1F - Past Boulder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 344,
+                        "y": 137
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Side Shaft Ledge",
+                "access_rules": ["$dynamite|1"],
+                "sections": [
+                    {
+                        "name": "B1F - Side Shaft Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 377,
+                        "y": 201
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Side Shaft Mound",
+                "access_rules": ["$dynamite|1"],
+                "sections": [
+                    {
+                        "name": "B1F - Side Shaft Mound",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 360,
+                        "y": 297
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Side Shaft Bottom Left",
+                "access_rules": ["$dynamite|1"],
+                "sections": [
+                    {
+                        "name": "B1F - Side Shaft Bottom Left",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 374,
+                        "y": 377
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Side Shaft Ladder Right",
+                "access_rules": ["$dynamite|1"],
+                "sections": [
+                    {
+                        "name": "B1F - Side Shaft Ladder Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 424,
+                        "y": 345
+                    }
+                ]
+            },
+            {
+                "name": "B1F - Side Shaft Bottom Right",
+                "access_rules": ["$dynamite|1"],
+                "sections": [
+                    {
+                        "name": "B1F - Side Shaft Bottom Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 424,
+                        "y": 377
+                    }
+                ]
+            },
+            {
+                "name": "B2F - First Item",        
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B2F - First Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 64,
+                        "y": 184
+                    }
+                ]
+            },
+            {
+                "name": "B2F - Second Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B2F - Second Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 112,
+                        "y": 184
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Mound Item",        
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B3F - Mound Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 80,
+                        "y": 233
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Ramp Item",
+                "access_rules": [],       
+                "sections": [
+                    {
+                        "name": "B3F - Ramp Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 176,
+                        "y": 256
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Ledge Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B3F - Ledge Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 234,
+                        "y": 281
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Upper Nook 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B3F - Upper Nook 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 304,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Upper Nook 2",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B3F - Upper Nook 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 255,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Upper Nook 3",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B3F - Upper Nook 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 241,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Middle Ledge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B3F - Middle Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 272,
+                        "y": 329
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Bottom",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B3F - Bottom",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 282,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Bat Item",
+                "access_rules": ["[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B3F - Bat Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 208,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Ladder Left",
+                "access_rules": ["[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B3F - Ladder Left",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 72,
+                        "y": 281
+                    }
+                ]
+            },
+            {
+                "name": "B3F - Bombable Wall",
+                "access_rules": ["[$flare|1],$dynamite|1"],
+                "sections": [
+                    {
+                        "name": "B3F - Bombable Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 144,
+                        "y": 281
+                    }
+                ]
+            },
+            {
+                "name": "B4F - Top Item",        
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B4F - Top Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 144,
+                        "y": 376
+                    }
+                ]
+            },
+            {
+                "name": "B4F - Minecart 1",
+                "access_rules": [],        
+                "sections": [
+                    {
+                        "name": "B4F - Minecart 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 376,
+                        "y": 457
+                    }
+                ]
+            },
+            {
+                "name": "B4F - Minecart 2",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B4F - Minecart 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 368,
+                        "y": 457
+                    }
+                ]
+            },
+            {
+                "name": "B5F - Near Ramp",        
+                "access_rules": ["$dynamite|1,$bluekey|1"],
+                "sections": [
+                    {
+                        "name": "B5F - Near Ramp",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 266,
+                        "y": 554
+                    }
+                ]
+            },
+            {
+                "name": "B5F - Ladder Left",
+                "access_rules": ["$dynamite|1,$bluekey|1"],
+                "sections": [
+                    {
+                        "name": "B5F - Ladder Left",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 288,
+                        "y": 506
+                    }
+                ]
+            },
+            {
+                "name": "B5F - Ladder Right",
+                "access_rules": ["$dynamite|1,$bluekey|1"],
+                "sections": [
+                    {
+                        "name": "B5F - Ladder Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 352,
+                        "y": 506
+                    }
+                ]
+            },
+            {
+                "name": "B6F - Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B6F - Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_1",
+                        "x": 48,
+                        "y": 554
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Area 2",
+        "access_rules": ["$dynamite|1,$bluekey|2,$redkey|1"],
+        "children": [
+            {
+                "name": "B7F - Left of Elevators",        
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B7F - Left of Elevators",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 289,
+                        "y": 40
+                    }
+                ]
+            },
+            {
+                "name": "B8F - Right Side 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B8F - Right Side 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 384,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "B8F - Right Side 2",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B8F - Right Side 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 410,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "B8F - Rope 1",
+                "access_rules": ["$dynamite|2"],
+                "sections": [
+                    {
+                        "name": "B8F - Rope 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 200,
+                        "y": 39
+                    }
+                ]
+            },
+            {
+                "name": "B8F - Rope 2",
+                "access_rules": ["$dynamite|2"],
+                "sections": [
+                    {
+                        "name": "B8F - Rope 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 242,
+                        "y": 29
+                    }
+                ]
+            },
+            {
+                "name": "B8F - Boulder Pit 2",
+                "access_rules": ["$dynamite|2"],
+                "sections": [
+                    {
+                        "name": "B8F - Boulder Pit 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 120,
+                        "y": 88
+                    }
+                ]
+            },
+            {
+                "name": "B8F - Boulder Pit 1",
+                "access_rules": ["$dynamite|2"],
+                "sections": [
+                    {
+                        "name": "B8F - Boulder Pit 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 25,
+                        "y": 108
+                    }
+                ]
+            },
+            {
+                "name": "B9F - Right Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B9F - Right Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 393,
+                        "y": 137
+                    }
+                ]
+            },
+            {
+                "name": "B9F - Left Top of Ramp",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B9F - Left Top of Ramp",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 248,
+                        "y": 137
+                    }
+                ]
+            },
+            {
+                "name": "B9F - Left Mounds",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B9F - Left Mounds",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 168,
+                        "y": 154
+                    }
+                ]
+            },
+            {
+                "name": "B9F - Left Near Edge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B9F - Left Near Edge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 104,
+                        "y": 154
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Far Ropes Ledge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B10F - Far Ropes Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 26,
+                        "y": 185
+                    }
+                ]
+            },
+            {
+                "name": "B10F - First Bridge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B10F - First Bridge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 182,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Between Bridges",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B10F - Between Bridges",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 274,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "B10F - After Bridges",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B10F - After Bridges",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 328,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Ladder Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B10F - Ladder Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 356,
+                        "y": 247
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Rope Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B10F - Rope Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 408,
+                        "y": 247
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Solo Rope",
+                "access_rules": ["[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B10F - Solo Rope",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 272,
+                        "y": 248
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Platform Item",
+                "access_rules": ["[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B10F - Platform Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 161,
+                        "y": 248
+                    }
+                ]
+            },
+            {
+                "name": "B10F - Left Shaft",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B10F - Left Shaft",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 29,
+                        "y": 296
+                    }
+                ]
+            },
+            {
+                "name": "B11F - Boulder Pit",
+                "access_rules": ["$dynamite|2"],
+                "sections": [
+                    {
+                        "name": "B11F - Boulder Pit",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 374,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "B11F - Bombable Wall",
+                "access_rules": ["[$flare|1],$dynamite|2"],
+                "sections": [
+                    {
+                        "name": "B11F - Bombable Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 108,
+                        "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "B11F - Left Shaft",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B11F - Left Shaft",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 24,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "B12F - Pit Item 1",
+                "access_rules": ["$bluekey|3"],
+                "sections": [
+                    {
+                        "name": "B12F - Pit Item 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 153,
+                        "y": 425
+                    }
+                ]
+            },
+            {
+                "name": "B12F - Pit Item 2",
+                "access_rules": ["$bluekey|3"],
+                "sections": [
+                    {
+                        "name": "B12F - Pit Item 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 216,
+                        "y": 408
+                    }
+                ]
+            },
+            {
+                "name": "B12F - Pit Item 3",
+                "access_rules": ["$bluekey|3"],
+                "sections": [
+                    {
+                        "name": "B12F - Pit Item 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 312,
+                        "y": 392
+                    }
+                ]
+            },
+            {
+                "name": "B12F - Locked Item",
+                "access_rules": ["$bluekey|4"],
+                "sections": [
+                    {
+                        "name": "B12F - Locked Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 362,
+                        "y": 392
+                    }
+                ]
+            },
+            {
+                "name": "B13F - Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B13F - Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_2",
+                        "x": 168,
+                        "y": 488
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Area 3",
+        "access_rules": ["$dynamite|3,$bluekey|3,$redkey|2"],
+        "children": [
+            {
+                "name": "B14F - Near Ladder",        
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B14F - Near Ladder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 265,
+                        "y": 41
+                    }
+                ]
+            },
+            {
+                "name": "B14F - Disconnected Platform",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B14F - Disconnected Platform",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 128,
+                        "y": 73
+                    }
+                ]
+            },
+            {
+                "name": "B14F - Rope Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B14F - Rope Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 144,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "B14F - Boulder Item",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B14F - Boulder Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 32,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "B14F - Far Ledge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B14F - Far Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 72,
+                        "y": 73
+                    }
+                ]
+            },
+            {
+                "name": "B15F - Left Wall",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B15F - Left Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 24,
+                        "y": 121
+                    }
+                ]
+            },
+            {
+                "name": "B15F - Past Boulder",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B15F - Past Boulder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 240,
+                        "y": 121
+                    }
+                ]
+            },
+            {
+                "name": "B15F - Upper Ledge",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B15F - Upper Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 296,
+                        "y": 106
+                    }
+                ]
+            },
+            {
+                "name": "B15F - Three in a Row 1",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B15F - Three in a Row 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 360,
+                        "y": 106
+                    }
+                ]
+            },
+            {
+                "name": "B15F - Three in a Row 2",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B15F - Three in a Row 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 370,
+                        "y": 106
+                    }
+                ]
+            },
+            {
+                "name": "B15F - Three in a Row 3",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B15F - Three in a Row 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 380,
+                        "y": 106
+                    }
+                ]
+            },
+            {
+                "name": "B15F - Right Wall",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B15F - Right Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 424,
+                        "y": 106
+                    }
+                ]
+            },
+            {
+                "name": "B16F - Undulating Rocks",
+                "access_rules": ["$bluekey|4"],
+                "sections": [
+                    {
+                        "name": "B16F - Undulating Rocks",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 208,
+                        "y": 169
+                    }
+                ]
+            },
+            {
+                "name": "B16F - Top of Waterfall",
+                "access_rules": ["$bluekey|4"],
+                "sections": [
+                    {
+                        "name": "B16F - Top of Waterfall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 264,
+                        "y": 184
+                    }
+                ]
+            },
+            {
+                "name": "B16F - Below Waterfall",
+                "access_rules": ["$bluekey|4"],
+                "sections": [
+                    {
+                        "name": "B16F - Below Waterfall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 408,
+                        "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "B16F - Bat 1",
+                "access_rules": ["$bluekey|4,[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B16F - Bat 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 120,
+                        "y": 216
+                    }
+                ]
+            },
+            {
+                "name": "B16F - Bat 2",
+                "access_rules": ["$bluekey|4,[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B16F - Bat 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 110,
+                        "y": 216
+                    }
+                ]
+            },
+            {
+                "name": "B17F - Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B17F - Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 80,
+                        "y": 216
+                    }
+                ]
+            },
+            {
+                "name": "B18F - Before Pit",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B18F - Before Pit",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 112,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "B18F - Trap Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B18F - Trap Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 184,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "B19F - Long Rope Bottom",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B19F - Long Rope Bottom",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 22,
+                        "y": 377
+                    }
+                ]
+            },
+            {
+                "name": "B19F - Near Ladder",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B19F - Near Ladder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 216,
+                        "y": 377
+                    }
+                ]
+            },
+            {
+                "name": "B19F - Past Boulder",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B19F - Past Boulder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 408,
+                        "y": 377
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Near Ladder",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Near Ladder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 145,
+                        "y": 409
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Boulder 1",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B20F - Boulder 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 205,
+                        "y": 536
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Boulder 2",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B20F - Boulder 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 217,
+                        "y": 536
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Boulder 3",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B20F - Boulder 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 232,
+                        "y": 536
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Right Side Bombable Wall",
+                "access_rules": ["$dynamite|5"],
+                "sections": [
+                    {
+                        "name": "B20F - Right Side Bombable Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 432,
+                        "y": 472
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Water Spout Upper 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Water Spout Upper 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 264,
+                        "y": 424
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Water Spout Upper Trap",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Water Spout Upper Trap",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 224,
+                        "y": 424
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Water Spout Lonely Ledge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Water Spout Lonely Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 328,
+                        "y": 472
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Water Spout Middle Left Ledge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Water Spout Middle Left Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 280,
+                        "y": 522
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Water Spout Middle Left Rope",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Water Spout Middle Left Rope",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 240,
+                        "y": 490
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Water Spout Middle Right Ledge",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Water Spout Middle Right Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 344,
+                        "y": 522
+                    }
+                ]
+            },
+            {
+                "name": "B20F - Near Right Rope",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B20F - Near Right Rope",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 400,
+                        "y": 522
+                    }
+                ]
+            },
+            {
+                "name": "B21F - Bat Pit 1",
+                "access_rules": ["[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B21F - Bat Pit 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 408,
+                        "y": 649
+                    }
+                ]
+            },
+            {
+                "name": "B21F - Bat Pit 2",
+                "access_rules": ["[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B21F - Bat Pit 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 368,
+                        "y": 642
+                    }
+                ]
+            },
+            {
+                "name": "B21F - Bat Pit 3",
+                "access_rules": ["[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B21F - Bat Pit 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 355,
+                        "y": 635
+                    }
+                ]
+            },
+            {
+                "name": "B21F - Ladder Right",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B21F - Ladder Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 240,
+                        "y": 585
+                    }
+                ]
+            },
+            {
+                "name": "B21F - Ladder Left",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B21F - Ladder Left",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_3",
+                        "x": 176,
+                        "y": 585
+                    }
+                ]
+            }
+        ]
+    },
+    {
+    "name": "Area 4",
+        "access_rules": ["$dynamite|3,$bluekey|4,$redkey|3"],
+        "children": [
+            {
+                "name": "B22F - Lonely Platform",        
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B22F - Lonely Platform",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 120,
+                        "y": 25
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Pyramid Platforming",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B23F - Pyramid Platforming",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 175,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Long Way Around",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B23F - Long Way Around",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 226,
+                        "y": 74
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Left Wall Near Pyramid",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B23F - Left Wall Near Pyramid",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 20,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Middle Pyramid Jump",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B23F - Middle Pyramid Jump",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 207,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Pyramid Bombable Wall",
+                "access_rules": ["$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B23F - Pyramid Bombable Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 234,
+                        "y": 138
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Offcenter T",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B23F - Offcenter T",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 328,
+                        "y": 123
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Lonely Platform Before Door",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B23F - Lonely Platform Before Door",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 288,
+                        "y": 74
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Just After Door",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B23F - Just After Door",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 372,
+                        "y": 122
+                    }
+                ]
+            },
+            {
+                "name": "B23F - Ropes Right Wall",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B23F - Ropes Right Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 424,
+                        "y": 170
+                    }
+                ]
+            },
+            {
+                "name": "B24F - Left Side Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B24F - Left Side Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 121,
+                        "y": 218
+                    }
+                ]
+            },
+            {
+                "name": "B24F - Right Side Item",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B24F - Right Side Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 224,
+                        "y": 218
+                    }
+                ]
+            },
+            {
+                "name": "B24F - Pit Trap",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B24F - Pit Trap",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 360,
+                        "y": 218
+                    }
+                ]
+            },
+            {
+                "name": "B25F - Left 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B25F - Left 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 72,
+                        "y": 267
+                    }
+                ]
+            },
+            {
+                "name": "B25F - Left 2",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B25F - Left 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 112,
+                        "y": 267
+                    }
+                ]
+            },
+            {
+                "name": "B25F - Right 1",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B25F - Right 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 240,
+                        "y": 267
+                    }
+                ]
+            },
+            {
+                "name": "B25F - Right 2",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "B25F - Right 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 297,
+                        "y": 267
+                    }
+                ]
+            },
+            {
+                "name": "B25F - Ropes Item",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B25F - Ropes Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 392,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "B26F - Rope Right 1",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B26F - Rope Right 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 312,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "B26F - Rope Right 2",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B26F - Rope Right 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 352,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "B26F - So Close You Can Smell It Item",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B26F - So Close You Can Smell It Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 240,
+                        "y": 314
+                    }
+                ]
+            },
+            {
+                "name": "B27F - Right of Pit 1",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B27F - Right of Pit 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 424,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "B27F - Right of Pit 2",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B27F - Right of Pit 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 434,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "B27F - Entry Item",
+                "access_rules": ["$redkey|4"],
+                "sections": [
+                    {
+                        "name": "B27F - Entry Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 328,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "B28F - Boulder Item",
+                "access_rules": ["$redkey|4,$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B28F - Boulder Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 368,
+                        "y": 458
+                    }
+                ]
+            },
+            {
+                "name": "B28F - Bat Ledge",
+                "access_rules": ["$redkey|4,$dynamite|4,[$flare|1]"],
+                "sections": [
+                    {
+                        "name": "B28F - Bat Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 425,
+                        "y": 488
+                    }
+                ]
+            },
+            {
+                "name": "B28F - Locked Item 1",
+                "access_rules": ["$redkey|5,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B28F - Locked Item 1",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 225,
+                        "y": 458
+                    }
+                ]
+            },
+            {
+                "name": "B28F - Locked Item 2",
+                "access_rules": ["$redkey|5,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B28F - Locked Item 2",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 240,
+                        "y": 458
+                    }
+                ]
+            },
+            {
+                "name": "B28F - Final Boulder",
+                "access_rules": ["$redkey|4,$dynamite|6,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B28F - Final Boulder",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 200,
+                        "y": 410
+                    }
+                ]
+            },
+            {
+                "name": "B28F - Final Rope Left",
+                "access_rules": ["$redkey|4,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B28F - Final Rope Left",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 40,
+                        "y": 410
+                    }
+                ]
+            },
+            {
+                "name": "B28F - Final Rope Right",
+                "access_rules": ["$redkey|4,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B28F - Final Rope Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 104,
+                        "y": 410
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Ladder Ledge",
+                "access_rules": ["$redkey|4,$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B29F - Ladder Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 426,
+                        "y": 538
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Pit Trap",
+                "access_rules": ["$redkey|4,$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B29F - Pit Trap",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 248,
+                        "y": 586
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Before Pit Trap",
+                "access_rules": ["$redkey|4,$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B29F - Before Pit Trap",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 368,
+                        "y": 586
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Rope Alcove",
+                "access_rules": ["$redkey|4,$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B29F - Rope Alcove",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 368,
+                        "y": 530
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Left Wall Rope Ledge",
+                "access_rules": ["$redkey|4,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B29F - Left Wall Rope Ledge",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 40,
+                        "y": 588
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Left Pit Item",
+                "access_rules": ["$redkey|4,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B29F - Left Pit Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 136,
+                        "y": 570
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Bombable Wall",
+                "access_rules": ["$redkey|4,$dynamite|6,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B29F - Bombable Wall",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 272,
+                        "y": 538
+                    }
+                ]
+            },
+            {
+                "name": "B29F - Left Wall Item",
+                "access_rules": ["$redkey|4,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B29F - Left Wall Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 32,
+                        "y": 524
+                    }
+                ]
+            },
+            {
+                "name": "B30F - Far Bottom Right",
+                "access_rules": ["$redkey|4,$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B30F - Far Bottom Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 432,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "B30F - Undulating Rocks",
+                "access_rules": ["$redkey|4,$dynamite|4"],
+                "sections": [
+                    {
+                        "name": "B30F - Undulating Rocks",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 360,
+                        "y": 634
+                    }
+                ]
+            },
+            {
+                "name": "B30F - Mound Item",
+                "access_rules": ["$redkey|4,$dynamite|4,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B30F - Mound Item",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 200,
+                        "y": 650
+                    }
+                ]
+            },
+            {
+                "name": "B30F - Far Bottom Left",
+                "access_rules": ["$redkey|4,$dynamite|5,$bluekey|5"],
+                "sections": [
+                    {
+                        "name": "B30F - Far Bottom Left",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 40,
+                        "y": 650
+                    }
+                ]
+            },
+            {
+                "name": "Golden Pyramid",
+                "access_rules": ["$redkey|5,$dynamite|6,$bluekey|6"],
+                "sections": [
+                    {
+                        "name": "Golden Pyramid",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "area_4",
+                        "x": 79,
+                        "y": 346
+                    }
+                ]
+            }
+        ]
+    }
+]
